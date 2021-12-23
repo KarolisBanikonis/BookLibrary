@@ -1,0 +1,38 @@
+[
+  {
+    "ReaderName": "Saulius",
+    "RentedBooksList": [
+      {
+        "Return Time": "2022-01-02",
+        "Name": "TestData5",
+        "Author": "TestData5",
+        "Category": "TestData5",
+        "Language": "TestData5",
+        "Publication Date": "1999-11-11",
+        "ISBN": "5"
+      },
+      {
+        "Return Time": "2022-01-02",
+        "Name": "TestData4",
+        "Author": "TestData4",
+        "Category": "TestData4",
+        "Language": "TestData4",
+        "Publication Date": "1999-11-11",
+        "ISBN": "4"
+      },
+      {
+        "Return Time": "2022-01-02",
+        "Name": "TestData1",
+        "Author": "TestData1",
+        "Category": "TestData1",
+        "Language": "TestData1",
+        "Publication Date": "1966-10-11",
+        "ISBN": "1"
+      }
+    ]
+  },
+  {
+    "ReaderName": "Paulius",
+    "RentedBooksList": []
+  }
+]
